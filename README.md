@@ -38,5 +38,12 @@ Analista de Sistemas e Desenvolvedor Full Stack focado na automatização de pro
 
 ---
 
-### 📊 Estatísticas do GitHub
-Em breve
+---
+
+### 🌐 Portfólio & Demonstrações Online
+
+[![Portfólio Profissional](https://img.shields.io/badge/Portfólio_Profissional-Acessar_Site-7600BC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cmachado-dev.github.io/cristiano-portfolio/)
+[![Projeto IBM](https://img.shields.io/badge/Projeto_IBM_Web-Acessar_Site-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://cmachado-dev.github.io/ibm-html-css-js/)
+
+* 💼 **Portfólio Principal:** [cmachado-dev.github.io/cristiano-portfolio](https://cmachado-dev.github.io/cristiano-portfolio/)
+* 🧪 **Projeto IBM (HTML/CSS/JS):** [cmachado-dev.github.io/ibm-html-css-js](https://cmachado-dev.github.io/ibm-html-css-js/)
